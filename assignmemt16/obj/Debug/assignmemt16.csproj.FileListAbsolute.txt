@@ -1,0 +1,7 @@
+D:\practic exercise\assignmemt16\assignmemt16\bin\Debug\assignmemt16.exe.config
+D:\practic exercise\assignmemt16\assignmemt16\bin\Debug\assignmemt16.exe
+D:\practic exercise\assignmemt16\assignmemt16\bin\Debug\assignmemt16.pdb
+D:\practic exercise\assignmemt16\assignmemt16\obj\Debug\assignmemt16.csproj.AssemblyReference.cache
+D:\practic exercise\assignmemt16\assignmemt16\obj\Debug\assignmemt16.csproj.CoreCompileInputs.cache
+D:\practic exercise\assignmemt16\assignmemt16\obj\Debug\assignmemt16.exe
+D:\practic exercise\assignmemt16\assignmemt16\obj\Debug\assignmemt16.pdb
